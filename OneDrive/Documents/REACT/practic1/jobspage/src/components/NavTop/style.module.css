@@ -1,0 +1,18 @@
+.top{
+    display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+}
+.top logo{
+    
+		height: 40px;
+	
+}
+.top lang{
+height: 28px;
+border: 1px solid #eaeaea;
+border-radius: 5px;
+cursor: pointer;
+padding: 0.4rem 0.6rem;
+}

@@ -1,0 +1,14 @@
+.footer-link{
+    text-decoration: none;
+    color: inherit;
+}
+.footer{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    position: absolute;
+    bottom: 30px;
+    padding-left:10px;
+    line-height: 45px;
+
+}
